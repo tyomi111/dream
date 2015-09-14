@@ -3,6 +3,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="C:/Library/Java/sshd/lib/bcpg-jdk15on-1.51.jar"/>
 	<classpathentry kind="lib" path="C:/Library/Java/sshd/lib/bcpkix-jdk15on-1.51.jar"/>
 	<classpathentry kind="lib" path="C:/Library/Java/sshd/lib/bcprov-jdk15on-1.51.jar"/>
@@ -23,5 +24,37 @@
 	<classpathentry kind="lib" path="C:/Library/Java/slf4j/slf4j-migrator-1.7.12.jar"/>
 	<classpathentry kind="lib" path="C:/Library/Java/slf4j/slf4j-nop-1.7.12.jar"/>
 	<classpathentry kind="lib" path="C:/Library/Java/slf4j/slf4j-simple-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Library/apache-sshd-0.14.0/lib/bcpg-jdk15on-1.51.jar"/>
+	<classpathentry kind="lib" path="C:/Library/apache-sshd-0.14.0/lib/bcpkix-jdk15on-1.51.jar"/>
+	<classpathentry kind="lib" path="C:/Library/apache-sshd-0.14.0/lib/bcprov-jdk15on-1.51.jar"/>
+	<classpathentry kind="lib" path="C:/Library/apache-sshd-0.14.0/lib/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Library/apache-sshd-0.14.0/lib/slf4j-jdk14-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Library/apache-sshd-0.14.0/lib/sshd-core-0.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Library/apache-sshd-0.14.0/lib/tomcat-apr-5.5.23.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/jcl-over-slf4j-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/jcl-over-slf4j-1.7.12-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/jul-to-slf4j-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/jul-to-slf4j-1.7.12-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/log4j-over-slf4j-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/log4j-over-slf4j-1.7.12-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/osgi-over-slf4j-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/osgi-over-slf4j-1.7.12-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/slf4j-android-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/slf4j-android-1.7.12-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/slf4j-api-1.7.12-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/slf4j-ext-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/slf4j-ext-1.7.12-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/slf4j-jcl-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/slf4j-jcl-1.7.12-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/slf4j-jdk14-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/slf4j-jdk14-1.7.12-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/slf4j-log4j12-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/slf4j-log4j12-1.7.12-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/slf4j-migrator-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/slf4j-nop-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/slf4j-nop-1.7.12-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/slf4j-simple-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Library/slf4j-1.7.12/slf4j-simple-1.7.12-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

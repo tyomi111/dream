@@ -5,6 +5,16 @@ import org.apache.sshd._;
 /**
  * @author tyomi
  */
-class dream {
+object dream {
+  def main(args:Array[String]){
+    
+  }
+  
   
 }
+
+
+class config{
+  
+}
+
